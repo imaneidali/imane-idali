@@ -1,0 +1,15 @@
+*{
+	font-family: 'Cairo', sans-serif;
+}
+
+h1{
+	text-align:center;
+	color: blue;
+}
+p{
+	font-size:22px;
+}
+.peace{
+	font-size: 30px;
+	color:green;
+}
